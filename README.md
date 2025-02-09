@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SamMallik
-- 👀 I’m interested in ... front End
-- 🌱 I’m currently learning ... Python,Java,Javascript
+- 👀 I’m interested in ... Software development
+- 🌱 I’m currently learning ... Python,Java,mysql
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... vsamanthmallik@gmail.com
 
